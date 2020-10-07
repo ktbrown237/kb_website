@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Learning Philosophy"
-#date:   2020-10-05 08:00:00 +0800
+date:   2020-10-05 10:00:00 +0800
 categories: Education
-#tags: test
+tags: Learning
 ---
 **Learning Philosophy**
 
