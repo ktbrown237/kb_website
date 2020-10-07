@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accessibility Statement"
-date:   2020-10-05 8:00:00 +0800
+#date:   2020-10-05 08:00:00 +0800
 categories: Education
 #tags: test Test
 #comments: 1

@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Learning Philosophy"
-date:   2020-10-05 8:00:00 +0800
+#date:   2020-10-05 08:00:00 +0800
 categories: Education
 #tags: test
 ---
-Learning Philosophy
+**Learning Philosophy**
 
 Over the past month, I have participated in various edtech challenges that have contributed to my development in the world of education and technology. They have also contributed to my knowledge of the process of learning and motivation. These challenges gave me the opportunity to learn many technical resources and established different learning strategies not only for myself but for others as well.
 
@@ -28,9 +28,9 @@ Throughout this experience, I have learned many different teaching and learning 
 
 
 
-References
-West, Richard E., et al. “Communities of Innovation.” Foundations of    Learning and Instructional Design Technology, EdTech Books, 2013, edtechbooks.org/lidtfoundations/communities_of_innovation.
-Noonoo, Stephen. “Why Science Says Boredom Is Good for the Brain - EdSurge News.” EdSurge, EdSurge, 26 June 2019, www.edsurge.com/news/2019-06-25-why-science-says-boredom-is-good-for-the-brain.
-Shaffer, David Williamson, et al. “Video Games and the Future of Learning.” Foundations of Learning and Instructional Design Technology, EdTech Books, 2005, edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning.
-Ertmer, Peggy A., and Timothy Newby. “Behaviorism, Cognitivism, Constructivism.” Foundations of Learning and Instructional Design Technology, EdTech Books, 2013, edtechbooks.org/lidtfoundations/behaviorism_cognitivism_constructivism.
-Park, Seung Won. “Motivation Theories and Instructional Design.” Foundations of Learning and Instructional Design Technology, EdTech Books, edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design.
+**References**  
+- West, Richard E., et al. “Communities of Innovation.” Foundations of    Learning and Instructional Design Technology, EdTech Books, 2013, edtechbooks.org/lidtfoundations/communities_of_innovation.
+- Noonoo, Stephen. “Why Science Says Boredom Is Good for the Brain - EdSurge News.” EdSurge, EdSurge, 26 June 2019, www.edsurge.com/news/2019-06-25-why-science-says-boredom-is-good-for-the-brain.
+- Shaffer, David Williamson, et al. “Video Games and the Future of Learning.” Foundations of Learning and Instructional Design Technology, EdTech Books, 2005, edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning.
+- Ertmer, Peggy A., and Timothy Newby. “Behaviorism, Cognitivism, Constructivism.” Foundations of Learning and Instructional Design Technology, EdTech   Books, 2013, edtechbooks.org/lidtfoundations/behaviorism_cognitivism_constructivism.
+- Park, Seung Won. “Motivation Theories and Instructional Design.” Foundations of Learning and Instructional Design Technology, EdTech Books, edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design.
